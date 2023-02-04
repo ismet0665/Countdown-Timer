@@ -1,4 +1,4 @@
-let time = 360 * 60 * 24.4; //dk cinsinden
+let time = 360 * 60 * 24.3; //dk cinsinden
 let timeSn = time * 60; //sn cinsinden
 
 let sayac = document.getElementById("sayac");
