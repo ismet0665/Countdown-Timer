@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Orbitron:wght@700&display=swap");
+/* font-family: 'Bebas Neue', cursive; 
+font-family: 'Orbitron', sans-serif;  dijital görünüm için...*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Orbitron", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+h1 {
+  font-size: 5rem;
+}
+h3 {
+  font-size: 2rem;
+}
